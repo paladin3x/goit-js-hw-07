@@ -51,3 +51,9 @@
   border-color: pink ;
   background-color: rgba(73, 224, 3, 0.5);
 }
+
+.captionstyle {
+  display:flex;
+  justify-content: center;
+  text-align: center;
+}
